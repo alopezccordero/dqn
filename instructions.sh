@@ -16,8 +16,6 @@ echo "Python"
 which python
 python --version
 
-echo "go into atari-project folder"
-cd ~/atari-project
 
 echo "Starting spaceinvaders training"
 
