@@ -9,7 +9,7 @@
 echo "CUDA_VISIBLE_DEVICES: $CUDA_VISIBLE_DEVICES"
 
 #activate conda
-source ~/miniconda/etc/profile.d/conda.sh
+source ~/miniconda3/etc/profile.d/conda.sh
 conda activate atari-project
 
 echo "Python"
